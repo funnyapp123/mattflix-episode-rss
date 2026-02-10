@@ -7,12 +7,18 @@
     <atom:link href="https://funnyapp123.github.io/mattflix-episode-rss/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 05:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 05:23:54 +0000</lastBuildDate>
     <item>
       <title>Adventure Time: Fionna and Cake: S2E10</title>
       <link>https://thetvdb.com/series/408850</link>
       <description>The Bear and the Rose (Aired: 2025-12-25)</description>
-      <pubDate>Tue, 10 Feb 2026 05:15:18 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 05:19:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adventure Time: Fionna and Cake: S2E10</title>
+      <link>https://thetvdb.com/series/408850</link>
+      <description>The Bear and the Rose (Aired: 2025-12-25)</description>
+      <pubDate>Tue, 10 Feb 2026 05:15:08 +0000</pubDate>
     </item>
     <item>
       <title>Test Notification: S00E00</title>
@@ -24,13 +30,13 @@
       <title>Adventure Time: Fionna and Cake: S2E10</title>
       <link>https://thetvdb.com/series/408850</link>
       <description>The Bear and the Rose (Aired: 2025-12-25)</description>
-      <pubDate>Tue, 10 Feb 2026 05:15:08 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 05:15:18 +0000</pubDate>
     </item>
     <item>
       <title>Adventure Time: Fionna and Cake: S2E10</title>
       <link>https://thetvdb.com/series/408850</link>
       <description>The Bear and the Rose (Aired: 2025-12-25)</description>
-      <pubDate>Tue, 10 Feb 2026 05:19:50 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 05:23:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
