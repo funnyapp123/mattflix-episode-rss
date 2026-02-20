@@ -7,30 +7,30 @@
     <atom:link href="https://funnyapp123.github.io/mattflix-episode-rss/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 14:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 00:01:20 +0000</lastBuildDate>
     <item>
-      <title>ちいかわ: S1E317</title>
+      <title>ちいかわ: S1E318</title>
       <link>https://thetvdb.com/series/415509</link>
-      <description>鬼カレー③ (Aired: 2026-02-12)</description>
-      <pubDate>Sun, 15 Feb 2026 12:01:20 +0000</pubDate>
+      <description>マイ時計／お風呂に行こう (Aired: 2026-02-16)</description>
+      <pubDate>Tue, 17 Feb 2026 14:01:20 +0000</pubDate>
     </item>
     <item>
-      <title>Aqua Teen Hunger Force: S12E5</title>
-      <link>https://thetvdb.com/series/77120</link>
-      <description>Anubis (Aired: 2023-12-17)</description>
-      <pubDate>Tue, 10 Feb 2026 05:26:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Adventure Time: Fionna and Cake: S2E10</title>
-      <link>https://thetvdb.com/series/408850</link>
-      <description>The Bear and the Rose (Aired: 2025-12-25)</description>
-      <pubDate>Tue, 10 Feb 2026 05:19:50 +0000</pubDate>
+      <title>ちいかわ: S1E316</title>
+      <link>https://thetvdb.com/series/415509</link>
+      <description>鬼カレー② (Aired: 2026-02-10)</description>
+      <pubDate>Tue, 10 Feb 2026 05:42:17 +0000</pubDate>
     </item>
     <item>
       <title>Adventure Time: Fionna and Cake: S2E10</title>
       <link>https://thetvdb.com/series/408850</link>
       <description>The Bear and the Rose (Aired: 2025-12-25)</description>
-      <pubDate>Tue, 10 Feb 2026 05:15:08 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 05:23:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adventure Time: Fionna and Cake: S2E10</title>
+      <link>https://thetvdb.com/series/408850</link>
+      <description>The Bear and the Rose (Aired: 2025-12-25)</description>
+      <pubDate>Tue, 10 Feb 2026 05:15:18 +0000</pubDate>
     </item>
     <item>
       <title>Test Notification: S00E00</title>
@@ -42,25 +42,31 @@
       <title>Adventure Time: Fionna and Cake: S2E10</title>
       <link>https://thetvdb.com/series/408850</link>
       <description>The Bear and the Rose (Aired: 2025-12-25)</description>
-      <pubDate>Tue, 10 Feb 2026 05:15:18 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 05:15:08 +0000</pubDate>
     </item>
     <item>
       <title>Adventure Time: Fionna and Cake: S2E10</title>
       <link>https://thetvdb.com/series/408850</link>
       <description>The Bear and the Rose (Aired: 2025-12-25)</description>
-      <pubDate>Tue, 10 Feb 2026 05:23:54 +0000</pubDate>
+      <pubDate>Tue, 10 Feb 2026 05:19:50 +0000</pubDate>
     </item>
     <item>
-      <title>ちいかわ: S1E316</title>
-      <link>https://thetvdb.com/series/415509</link>
-      <description>鬼カレー② (Aired: 2026-02-10)</description>
-      <pubDate>Tue, 10 Feb 2026 05:42:17 +0000</pubDate>
+      <title>Aqua Teen Hunger Force: S12E5</title>
+      <link>https://thetvdb.com/series/77120</link>
+      <description>Anubis (Aired: 2023-12-17)</description>
+      <pubDate>Tue, 10 Feb 2026 05:26:52 +0000</pubDate>
     </item>
     <item>
-      <title>ちいかわ: S1E318</title>
+      <title>ちいかわ: S1E317</title>
       <link>https://thetvdb.com/series/415509</link>
-      <description>マイ時計／お風呂に行こう (Aired: 2026-02-16)</description>
-      <pubDate>Tue, 17 Feb 2026 14:01:20 +0000</pubDate>
+      <description>鬼カレー③ (Aired: 2026-02-12)</description>
+      <pubDate>Sun, 15 Feb 2026 12:01:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>ちいかわ: S1E319</title>
+      <link>https://thetvdb.com/series/415509</link>
+      <description>TBA (Aired: 2026-02-20)</description>
+      <pubDate>Fri, 20 Feb 2026 00:01:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
